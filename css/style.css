@@ -47,7 +47,7 @@ h4 {
     text-transform: capitalize;
     letter-spacing: 2px;
     position: relative;
-    color: #425BB5;
+    color: #444;
     margin-left: 40px;
     font-weight: 700;
 }
@@ -59,7 +59,7 @@ h4:before {
     content: "";
     display: block;
     height: 2px;
-    background: #425BB5;
+    background: #000000;
     top: 9px;
 }
 
@@ -274,7 +274,7 @@ a:hover {
 }
 
 a.active {
-    color: #425BB5;
+    color: #000000;
 }
 
 
@@ -282,7 +282,7 @@ a.active {
 ==================================================*/
 
 #home {
-    background: url(../img/home-bg-2.jpg);
+    background: url(../img/moonrising.jpg);
     background-size: cover;
     height: 100vh;
 }
